@@ -8,5 +8,25 @@
     "id": 2,
     "text": "That government is best which governs not at all",
     "author": "Thoreau"
+  },
+  {
+    "id": 3,
+    "text": "Resolve to serve no more, and you are at once freed",
+    "author": "La Boétie"
+  },
+  {
+    "id": 4,
+    "text": "Nothing can bring you peace but yourself",
+    "author": "Emerson"
+  },
+  {
+    "id": 5,
+    "text": "My life is not an apology, but a life",
+    "author": "Emerson"
+  },
+  {
+    "id": 6,
+    "text": "Life only avails, not the having lived",
+    "author": "Emerson"
   }
 ]
